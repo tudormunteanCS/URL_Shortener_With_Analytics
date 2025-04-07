@@ -1,0 +1,2 @@
+🗲🗲
+Built a high-performance URL Shortener with Analytics, as measured by features like URL shortening, click tracking, and an analytics dashboard, using Java (Spring Boot), Redis, MongoDB, and AWS Lambda. Demonstrates expertise in scalable, real-time systems with caching and analytics, while gaining hands-on experience with cloud services and modern backend development. 👽👽
